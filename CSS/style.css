@@ -1,0 +1,10 @@
+.cardsection{
+    gap:
+}
+
+@media only screen and (max-width:576px)
+{
+    .blockdisplay{
+       display: none;
+    }
+}

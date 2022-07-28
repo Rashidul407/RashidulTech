@@ -11,4 +11,8 @@
     .blockdisplay{
        display: none;
     }
+
+    .display{
+        flex-direction:column;
+    }
 }
